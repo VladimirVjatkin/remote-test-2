@@ -1,4 +1,4 @@
-# privet! new file --- xaxa
+# privet! new file votot --- xaxa
 
 jeste jedno
 jeste tretij stroka
