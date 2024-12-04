@@ -1,4 +1,4 @@
-# privet! new file --- xaxa
+# privet! new file --- xaxaxa,yaxb,yaxc,yaxd -->
 
 jeste jedno
 jeste tretij stroka
